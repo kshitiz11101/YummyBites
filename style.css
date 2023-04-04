@@ -93,7 +93,7 @@ html{
 
 #home::before {
     content: "";
-    background: url('../BG2.webp') no-repeat center center/cover;
+    background: url('BG2.webp') no-repeat center center/cover;
     position: absolute;
     top: 0px;
     left: 0px;
@@ -191,7 +191,7 @@ html{
     height: 100%;
     z-index: -1;
     opacity: 0.5;
-    background: url('../ContactUs.jpg') no-repeat center/cover ;
+    background: url('ContactUs.jpg') no-repeat center/cover ;
 }
 
 
